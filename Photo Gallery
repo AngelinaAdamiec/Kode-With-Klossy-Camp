@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <link
+  href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" />
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" 
+    <link href="style.css" rel="stylesheet" type="text/css" /> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>About Me</title>
+    <link href="style.css" 
+    rel="stylesheet" type="text/css" />
+  </head>
+  </head>
+  <nav>
+  <h1> Flowers & Puppies at a Glance </h1>
+    <section class="Flowers">
+    <article class= "Roses"> 
+       <img src=
+    "https://images.pexels.com/photos/1517358/pexels-photo-1517358.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt= Roses>
+    </article> 
+  <article class= "Alaskan Malamute">
+    <img src= "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14141551/Alaskan-Malamute-puppies.jpg" alt= Alaskan Malamute>
+    </article>
+    <article class= "Daises">
+      <img src=
+      "https://images.pexels.com/photos/85773/pexels-photo-85773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt= Daises>
+      </article>
+       <article class= "St.Bernard Puppy">
+      <img src=
+      "https://i0.wp.com/puppytoob.com/wp-content/uploads/2017/08/Saint-Bernard-Puppies.jpg?resize=750%2C563" alt= St. Bernard Puppy>
+      </article>
+    <article class= "Peonies">
+      <img src=
+      "https://images.pexels.com/photos/3392982/pexels-photo-3392982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt= Peonies>
+      </article>
+    <article class= "Akita">
+      <img src=
+      "https://www.keystonepuppies.com/wp-content/uploads/2018/09/Akita-Puppy.jpg" alt= Akita>
+      </article>
+    <article class= "Camellia">
+      <img src= 
+      "https://images.pexels.com/photos/4066070/pexels-photo-4066070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt= Camellia>
+      </article>
+    <article class= "Beagle">
+      <img src= 
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02141506/Beagle-Puppy.jpg" alt= Beagle>
+      </article>
+    <article class= "Cherry Blossom">
+      <img src=
+      "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt= Cherry Blossom>
+      </article>
+    <article class= "Bernese Mountain Puppy">
+      <img src= 
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11160330/Bernese-Mountain-Dog_Puppy_Bone.jpg" alt= Bernese Mountain Puppy>
+      </article>
+    <article class= "Chrysanthemum">
+      <img src= 
+      "https://www.gardenia.net/storage/app/public/uploads/images/detail/Garden_Mum_Cheryl_Pink_Bloom_13449Optimized.jpg" alt= Chrysanthemum>
+      </article>
+    <article class= "Bulldog">
+      <img src= 
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02000238/Bulldog-puppies.jpg" alt= Bulldog>
+    </article>
+    <article class= "Plumeria-Frangipani">
+      <img src= 
+      "https://images.pexels.com/photos/433539/pexels-photo-433539.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.jpg" alt= Plumeria-Frangipani>
+      </article>
+    <article class="Chow Chow Puppy">
+      <img src=
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04141411/Chow-Chow-puppies-on-a-white-background.20200502223501540.jpg" alt= Chow Chow>
+    </article>
+    <article class= "Hibiscus">
+     <img src= 
+      "https://images.pexels.com/photos/3782333/pexels-photo-3782333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.jpg" alt= Hibiscus>
+      </article>
+    <article class= "Shih Tzu Puppy">
+      <img src= 
+      "https://images.pexels.com/photos/130770/pexels-photo-130770.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt= Shih Tzu Puppy>
+      </article>
+    <article class= "Rhododendron">
+      <img src= 
+      "https://www.almanac.com/sites/default/files/image_nodes/rhododendron-pink-bush-edit.jpg" alt= Hibiscus>
+      </article>
+    <article class= "Dalmation">
+      <img src=
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/04143301/Dalmatian-puppies-sitting-in-a-row.jpg" alt= Dalmation>
+      </article>
+    <article class= "Begonia">
+      <img src= 
+      "https://gpnmag.com/wp-content/uploads/2020/01/Begonia_Prism_Rose_Shades-DGI-4-26-2019-e1578587545966-800x437.jpg" alt= Begonia>
+      </article>  
+    <article class= "Cavalier King Charles Spaniel">
+      <img src=
+      "https://www.keystonepuppies.com/wp-content/uploads/2018/09/Cavalier-1.jpg" alt= Cavalier King Charles Spaniel>
+      </article>
+    <article class= "Bleeding-Heart">
+      <img src=
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bleeding_heart_flower_shot.jpg/778px-Bleeding_heart_flower_shot.jpg" alt= Bleeding-Heart>
+        </article> 
+    <article class= "Central Asian Shepherd Dog">
+      <img src= 
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/10141046/Central-Asian-Shepherd-puppy-laying-on-a-white-background.jpg" alt= Central Asian Shepherd Dog>
+        </article>
+    <article class= "Desert-Rose">
+      <img src= 
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%22Adenium_obesum%22_Also_known_by_the_names_%22Sabi_Star%2C_Kudu%2C_Mock_Azalea%2C_Impala_Lily_%26_Desert-rose.jpg/800px-%22Adenium_obesum%22_Also_known_by_the_names_%22Sabi_Star%2C_Kudu%2C_Mock_Azalea%2C_Impala_Lily_%26_Desert-rose.jpg" al=Desert-Rose>
+      </article>
+    <article class= "French Bulldog">
+      <img src=
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12151804/Frenchie-puppy.jpg" alt= French Bulldog>
+      </article>
+    <article class= "Lantana camara">
+      <img src=
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lantana_camara_%28Flower%29.jpg/800px-Lantana_camara_%28Flower%29.jpg" alt= Lantana camara>
+      </article>
+    <article class= "Golden Retriever">
+      <img src= 
+      "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12110029/Golden.puppy_.jpg" alt= Golden Retriever>
+      </article>
+    <article class= "Sacred-Lotus">
+      <img src=
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sacred_lotus_Nelumbo_nucifera.jpg/654px-Sacred_lotus_Nelumbo_nucifera.jpg" alt= Sacred-Lotus>
+      </article>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+CSS Portion Below*
+
+* {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: #FFE8E1
+}
+
+h1 {
+  font-family: dancing script;
+  font-style: oblique;
+  font-weight: 200;
+  font-size: 40px;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.Flowers {
+  display: flex;
+  justify-content: center;
+  flex-direction: right;
+  flex-wrap: wrap;
+  background-color: #FFE8E1;
+}
+
+img{
+  width: 240px;
+  height: 235px;
+  object-fit: contain;
+  margin: 10px;
+  background-color: #FFE8E1
+}
